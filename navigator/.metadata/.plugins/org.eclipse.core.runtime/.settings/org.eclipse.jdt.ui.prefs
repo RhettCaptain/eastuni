@@ -1,0 +1,10 @@
+content_assist_proposals_background=255,255,255
+content_assist_proposals_foreground=0,0,0
+eclipse.preferences.version=1
+org.eclipse.jdt.internal.ui.navigator.layout=2
+org.eclipse.jdt.internal.ui.navigator.librariesnode=true
+org.eclipse.jdt.ui.formatterprofiles.version=14
+org.eclipse.jface.textfont=1|\u5B8B\u4F53|12.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|-122|3|2|1|2|\u5B8B\u4F53;
+spelling_locale_initialized=true
+useAnnotationsPrefPage=true
+useQuickDiffPrefPage=true
